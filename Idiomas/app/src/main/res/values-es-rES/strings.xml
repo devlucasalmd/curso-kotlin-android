@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Idiomas</string>
+    <string name="idioma">Español (ES)</string>
+    <string name="descricao">Mi nombre es Lucas, tengo 23 años y soy estudiante en IFSP.</string>
+</resources>
